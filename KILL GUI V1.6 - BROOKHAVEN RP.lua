@@ -45,7 +45,7 @@ TITULO.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TITULO.Position = UDim2.new(0.189550564, 0, 0.0291093439, 0)
 TITULO.Size = UDim2.new(0, 278, 0, 50)
 TITULO.Font = Enum.Font.SourceSans
-TITULO.Text = "KILL GUI V1.6 - BY JU4N"
+TITULO.Text = "KILL GUI V1.6 - BY SLAX"
 TITULO.TextColor3 = Color3.fromRGB(0, 255, 255)
 TITULO.TextSize = 34.000
 
